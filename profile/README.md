@@ -22,7 +22,7 @@
 Follow our [guidelines for course creators](https://plugins.jetbrains.com/plugin/10081-jetbrains-academy/docs/guidelines-for-the-course-creators.html)
 
 ### Contribution guidelines
-We are always open to suggestions on how to improve existing courses.
+We always open to suggestions on how to improve existing courses.
 If you would like to contribute, please be sure to review the <a href="../contributing_guidelines.md" target="_blank">contributing guidelines</a>
 
 <!--### Templates
