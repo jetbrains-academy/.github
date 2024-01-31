@@ -3,10 +3,10 @@
 </div>
 
 # Welcome to JetBrains Academy!
-<a href="https://academy.jetbrains.com/?source=MARKETPLACE"><img src="https://img.shields.io/static/v1?logo=jetbrains&logoColor=1bd58e&label=&message=Marketplace courses&color=36393f&style=flat-square" target="_blank" alt="Academy Marketplace"></a>
-<a href="https://discord.gg/NK3zBE22"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" target="_blank" alt="Discord"></a>
-<a href="https://www.youtube.com/@JetBrainsAcademy"><img src="https://img.shields.io/static/v1?logo=youtube&logoColor=FF0000&label=&message=YouTube&color=36393f&style=flat-square" target="_blank" alt="YouTube"></a>
-<a href="mailto:academy@jetbrains.com"><img src="https://img.shields.io/static/v1?logo=gmail&logoColor=EA4335&label=&message=e-mail&color=36393f&style=flat-square" target="_blank" alt="e-mail"></a>
+<a href="https://academy.jetbrains.com/?source=MARKETPLACE" target="_blank"><img src="https://img.shields.io/static/v1?logo=jetbrains&logoColor=1bd58e&label=&message=Marketplace courses&color=36393f&style=flat-square" alt="Academy Marketplace"></a>
+<a href="https://discord.gg/NK3zBE22" target="_blank"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
+<a href="https://www.youtube.com/@JetBrainsAcademy" target="_blank"><img src="https://img.shields.io/static/v1?logo=youtube&logoColor=FF0000&label=&message=YouTube&color=36393f&style=flat-square" alt="YouTube"></a>
+<a href="mailto:academy@jetbrains.com" target="_blank"><img src="https://img.shields.io/static/v1?logo=gmail&logoColor=EA4335&label=&message=e-mail&color=36393f&style=flat-square" alt="e-mail"></a>
 
 ## Popular courses
 [![ITP-Dark](https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=introduction_to_python&theme=dark#gh-dark-mode-only)](https://github.com/jetbrains-academy/introduction_to_python#gh-dark-mode-only)
