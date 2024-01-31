@@ -22,10 +22,10 @@ This will prevent your local repository from having too many merge commits, help
 ## Checklist
 Before submitting the pull request, make sure that you can say "YES" to each point in this short checklist:
 
--[ ] You provided the link to the related issue(s) from the repository;
--[ ] You made a reasonable amount of changes related only to the provided issues;
--[ ] You can explain the changes made in the pull request;
--[ ] You ran the build locally and verified new functionality/fixed bugs;
--[ ] You ran related tests locally (or added new ones) and they passed;
--[ ] You do not have merge conflicts in the pull request.
--[ ] You've made sure that all tests in [GitHub Actions](https://docs.github.com/en/actions/quickstart#viewing-your-workflow-results) pass
+- [ ] You provided the link to the related issue(s) from the repository;
+- [ ] You made a reasonable amount of changes related only to the provided issues;
+- [ ] You can explain the changes made in the pull request;
+- [ ] You ran the build locally and verified new functionality/fixed bugs;
+- [ ] You ran related tests locally (or added new ones) and they passed;
+- [ ] You do not have merge conflicts in the pull request.
+- [ ] You've made sure that all tests in [GitHub Actions](https://docs.github.com/en/actions/quickstart#viewing-your-workflow-results) pass
