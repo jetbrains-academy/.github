@@ -9,8 +9,13 @@
 <a href="mailto:academy@jetbrains.com" target="_blank"><img src="https://img.shields.io/static/v1?logo=gmail&logoColor=EA4335&label=&message=e-mail&color=36393f&style=flat-square" alt="e-mail"></a>
 
 ## Popular courses
-[![ITP-Dark](https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=introduction_to_python&theme=dark#gh-dark-mode-only)](https://github.com/jetbrains-academy/introduction_to_python#gh-dark-mode-only)
-[![ITP-Light](https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=introduction_to_python&theme=default#gh-light-mode-only)](https://github.com/jetbrains-academy/introduction_to_python#gh-light-mode-only)
+<a href="https://github.com/jetbrains-academy/introduction_to_python" target="_blank" alt="Introduction to Python course">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=introduction_to_python&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=introduction_to_python&theme=default">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=introduction_to_python&theme=default">
+</picture>
+</a>
 
 <!-- ## Active users -->
 
@@ -35,11 +40,27 @@ Start with specially prepared templates:
 ### Templates
 Start with specially prepared templates:  
 
-[![python-course-template-Dark](https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=python-course-template&theme=dark&description_lines_count=1#gh-dark-mode-only)](https://github.com/jetbrains-academy/python-course-template#gh-dark-mode-only)
-[![python-course-template-Light](https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=python-course-template&theme=default&description_lines_count=1#gh-light-mode-only)](https://github.com/jetbrains-academy/python-course-template#gh-light-mode-only)
-[![java-course-template-Dark](https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=java-course-template&theme=dark&description_lines_count=1#gh-dark-mode-only)](https://github.com/jetbrains-academy/java-course-template#gh-dark-mode-only)
-[![java-course-template-Light](https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=java-course-template&theme=default&description_lines_count=1#gh-light-mode-only)](https://github.com/jetbrains-academy/java-course-template#gh-light-mode-only)
-[![kotlin-course-template-Dark](https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=kotlin-course-template&theme=dark&description_lines_count=1#gh-dark-mode-only)](https://github.com/jetbrains-academy/kotlin-course-template#gh-dark-mode-only)
-[![kotlin-course-template-Light](https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=kotlin-course-template&theme=default&description_lines_count=1#gh-light-mode-only)](https://github.com/jetbrains-academy/kotlin-course-template#gh-light-mode-only)
+<a href="https://github.com/jetbrains-academy/python-course-template" target="_blank" alt="Python template">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=python-course-template&theme=dark&description_lines_count=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=python-course-template&theme=default&description_lines_count=1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=python-course-template&theme=default&description_lines_count=1">
+</picture>
+</a>
+<a href="https://github.com/jetbrains-academy/java-course-template" target="_blank" alt="Java template">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=java-course-template&theme=dark&description_lines_count=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=java-course-template&theme=default&description_lines_count=1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=java-course-template&theme=default&description_lines_count=1">
+</picture>
+</a>
+<a href="https://github.com/jetbrains-academy/kotlin-course-template" target="_blank" alt="Kotlin template">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=kotlin-course-template&theme=dark&description_lines_count=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=kotlin-course-template&theme=default&description_lines_count=1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=kotlin-course-template&theme=default&description_lines_count=1">
+</picture>
+</a>
+
 <!--[![cpp-course-template-Dark](https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=cpp-course-template&theme=dark&description_lines_count=1#gh-dark-mode-only)](https://github.com/jetbrains-academy/cpp-course-template#gh-dark-mode-only)
 [![cpp-course-template-Light](https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=cpp-course-template&theme=default&description_lines_count=1#gh-light-mode-only)](https://github.com/jetbrains-academy/cpp-course-template#gh-light-mode-only) -->
