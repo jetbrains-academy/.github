@@ -17,10 +17,33 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=introduction_to_python&theme=default">
 </picture>
 </a>
+<a href="https://github.com/jetbrains-academy/kotlin-onboarding-introduction" target="_blank" alt="kotlin-onboarding-introduction course">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=kotlin-onboarding-introduction&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=kotlin-onboarding-introduction&theme=default">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=kotlin-onboarding-introduction&theme=default">
+</picture>
+</a>
+<a href="https://github.com/jetbrains-academy/rustlings-course" target="_blank" alt="rustlings-course">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=rustlings-course&theme=dark&description_lines_count=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=rustlings-course&theme=default&description_lines_count=1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=rustlings-course&theme=default&description_lines_count=1">
+</picture>
+</a>
+<a href="https://github.com/jetbrains-academy/CppBasics" target="_blank" alt="CppBasics course">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=CppBasics&theme=dark&description_lines_count=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=CppBasics&theme=default&description_lines_count=1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=CppBasics&theme=default&description_lines_count=1">
+</picture>
+</a>
 
-<!-- ## Active users -->
+<!-- ## Active users graph -->
 
 ## Become a course creator
+All of our courses are published under the MIT license and can be used in your academic projects, classes, etc.
+
 ### Brief Course Creator's Guid on YouTube  
 [![YouTube video How to create a course with JetBrains Academy](https://img.youtube.com/vi/e0O4TZKI8kQ/0.jpg)](https://www.youtube.com/watch?v=e0O4TZKI8kQ "Watch Course Creator's Guid on YouTube!")
 
@@ -28,7 +51,7 @@
 Follow our [guidelines for course creators](https://plugins.jetbrains.com/plugin/10081-jetbrains-academy/docs/guidelines-for-the-course-creators.html)
 
 ### Contribution guidelines
-We always open to suggestions on how to improve existing courses.
+We always open to suggestions on how to improve existing open-source courses.
 If you would like to contribute, please be sure to review the <a href="../contributing_guidelines.md" target="_blank">contributing guidelines</a>
 
 <!--### Templates
@@ -62,6 +85,12 @@ Start with specially prepared templates:
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=kotlin-course-template&theme=default&description_lines_count=1">
 </picture>
 </a>
-
-<!--[![cpp-course-template-Dark](https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=cpp-course-template&theme=dark&description_lines_count=1#gh-dark-mode-only)](https://github.com/jetbrains-academy/cpp-course-template#gh-dark-mode-only)
-[![cpp-course-template-Light](https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=cpp-course-template&theme=default&description_lines_count=1#gh-light-mode-only)](https://github.com/jetbrains-academy/cpp-course-template#gh-light-mode-only) -->
+<!--
+<a href="https://github.com/jetbrains-academy/cpp-course-template" target="_blank" alt="cpp-course-template">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=cpp-course-template&theme=dark&description_lines_count=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=cpp-course-template&theme=default&description_lines_count=1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=cpp-course-template&theme=default&description_lines_count=1">
+</picture>
+</a>
+-->
