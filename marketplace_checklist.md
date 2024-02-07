@@ -33,7 +33,7 @@ Before publishing a course to the Marketplace, make sure that you can say "YES" 
 ### Formatting
 - [ ] `<code></code>` or/and backtick (&#96;) quote highlighting is really only used for code
 - [ ] All code insertions are highlighted with `<code></code>` or/and backtick
-- [ ] Multiple lines code blocks in `task.md` files highlighted with using `python` syntax (&#96;&#96;&#96;text&#96;&#96;&#96;) instead of using single &#96;text&#96; code tags
+- [ ] Multiple lines code blocks in `task.md` files highlighted with using Python syntax (&#96;&#96;&#96;text&#96;&#96;&#96;) instead of using single &#96;text&#96; code tags
 - [ ] `highlighting` is used to highlight blocks of output.
 - [ ] Images has `width` [attribute](https://www.w3schools.com/tags/att_width.asp) in case images in the task description are too large
 
