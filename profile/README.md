@@ -44,25 +44,25 @@
 ## Become a course creator
 All of our courses are published under the MIT license and can be used in your academic projects, classes, etc.
 
-### Brief Course Creator's Guid on YouTube  
+### Brief Course Creator's Guide on YouTube  
 [![YouTube video How to create a course with JetBrains Academy](https://img.youtube.com/vi/e0O4TZKI8kQ/0.jpg)](https://www.youtube.com/watch?v=e0O4TZKI8kQ "Watch Course Creator's Guid on YouTube!")
 
 ### Course creation guidelines
-Follow our [guidelines for course creators](https://plugins.jetbrains.com/plugin/10081-jetbrains-academy/docs/guidelines-for-the-course-creators.html)
+Follow our [guidelines for course creators](https://plugins.jetbrains.com/plugin/10081-jetbrains-academy/docs/guidelines-for-the-course-creators.html).
 
 ### Contribution guidelines
-We always open to suggestions on how to improve existing open-source courses.
-If you would like to contribute, please be sure to review the <a href="../contributing_guidelines.md" target="_blank">contributing guidelines</a>
+We are always open to suggestions on how to improve our existing open-source courses.
+If you would like to contribute, please be sure to review the <a href="../contributing_guidelines.md" target="_blank">contributing guidelines</a>.
 
 <!--### Templates
-Start with specially prepared templates:
+Start with the specially prepared templates:
 - [python-course-template](https://github.com/jetbrains-academy/python-course-template)
 - [java-course-template](https://github.com/jetbrains-academy/java-course-template)
 - [kotlin-course-template](https://github.com/jetbrains-academy/kotlin-course-template)
  - [cpp-course-template](https://github.com/jetbrains-academy/cpp-course-template) -->
 
 ### Templates
-Start with specially prepared templates:  
+Start with the specially prepared templates:  
 
 <a href="https://github.com/jetbrains-academy/python-course-template" target="_blank" alt="Python template">
 <picture>
