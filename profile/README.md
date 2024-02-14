@@ -52,7 +52,7 @@ Follow our [guidelines for course creators](https://plugins.jetbrains.com/plugin
 
 ### Contribution guidelines
 We are always open to suggestions on how to improve our existing open-source courses.
-If you would like to contribute, please be sure to review the <a href="../contributing_guidelines.md" target="_blank">contributing guidelines</a>.
+If you would like to contribute, please be sure to review the <a href="https://github.com/jetbrains-academy/.github/blob/main/contributing_guidelines.md" target="_blank">contributing guidelines</a>.
 
 <!--### Templates
 Start with the specially prepared templates:
