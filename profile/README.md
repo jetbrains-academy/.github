@@ -1,5 +1,5 @@
 <div style="width: 100%; text-align: center;">
-  <img src="./resources/academy_header.png" alt="JetBrains Academy header" style="display: inline-block;">
+  <img src="https://github.com/jetbrains-academy/.github/blob/main/profile/resources/academy_header.png" alt="JetBrains Academy header" style="display: inline-block;">
 </div>
 
 # Welcome to JetBrains Academy!
