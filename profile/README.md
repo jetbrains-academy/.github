@@ -5,7 +5,7 @@
 # Welcome to JetBrains Academy!
 <!-- <a href="https://academy.jetbrains.com/?source=MARKETPLACE" target="_blank"><img src="https://img.shields.io/static/v1?logo=jetbrains&logoColor=1bd58e&label=&message=Marketplace courses&color=36393f&style=flat-square" alt="Academy Marketplace"></a> -->
 <a href="https://plugins.jetbrains.com/education" target="_blank"><img src="https://img.shields.io/static/v1?logo=jetbrains&logoColor=1bd58e&label=&message=Marketplace courses&color=36393f&style=flat-square" alt="Academy Marketplace"></a>
-<a href="https://discord.gg/NK3zBE22" target="_blank"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
+<a href="https://discord.gg/KWGKAmA89d" target="_blank"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
 <a href="https://www.youtube.com/@JetBrainsAcademy" target="_blank"><img src="https://img.shields.io/static/v1?logo=youtube&logoColor=FF0000&label=&message=YouTube&color=36393f&style=flat-square" alt="YouTube"></a>
 <a href="mailto:academy@jetbrains.com" target="_blank"><img src="https://img.shields.io/static/v1?logo=gmail&logoColor=EA4335&label=&message=e-mail&color=36393f&style=flat-square" alt="e-mail"></a>
 
