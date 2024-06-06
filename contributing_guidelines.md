@@ -1,5 +1,6 @@
 # Contributing
-We love contributions! We welcome fixes for existing bugs as well as corrections for task and test errors.
+We love contributions! We welcome fixes for existing bugs as well as corrections for task and test errors. 
+
 Current tasks can be found in the [open issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart) section of the course repository.
 If you have any questions, or if you discover bugs or errors, please do not hesitate to open new issues.
 
