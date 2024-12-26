@@ -42,7 +42,7 @@
 <!-- ## Active users graph -->
 
 ## Become a course creator
-All of our courses are published under the MIT license and can be used in your academic projects, classes, etc.
+⚖️ All of our courses are published under the MIT license and can be used in your academic projects, classes, etc.
 
 ### Brief Course Creator's Guide on YouTube  
 [![YouTube video How to create a course with JetBrains Academy](https://img.youtube.com/vi/e0O4TZKI8kQ/0.jpg)](https://www.youtube.com/watch?v=e0O4TZKI8kQ "Watch Course Creator's Guid on YouTube!")
