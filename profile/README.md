@@ -48,7 +48,7 @@
 [![YouTube video How to create a course with JetBrains Academy](https://img.youtube.com/vi/e0O4TZKI8kQ/0.jpg)](https://www.youtube.com/watch?v=e0O4TZKI8kQ "Watch Course Creator's Guid on YouTube!")
 
 ### Course creation guidelines
-Follow our [guidelines for course creators](https://plugins.jetbrains.com/plugin/10081-jetbrains-academy/docs/guidelines-for-the-course-creators.html).
+Follow our [Course creator start guide﻿](https://plugins.jetbrains.com/plugin/10081-jetbrains-academy/docs/educator-start-guide.html).
 
 ### Contribution guidelines
 We are always open to suggestions on how to improve our existing open-source courses.
