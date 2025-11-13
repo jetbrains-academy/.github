@@ -85,6 +85,13 @@ Start with the specially prepared templates:
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=kotlin-course-template&theme=default&description_lines_count=1">
 </picture>
 </a>
+<a href="https://github.com/jetbrains-academy/javascript-course-template" target="_blank" alt="JavaScript template">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=javascript-course-template&theme=dark&description_lines_count=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=javascript-course-template&theme=default&description_lines_count=1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=javascript-course-template&theme=default&description_lines_count=1">
+</picture>
+</a>
 <!--
 <a href="https://github.com/jetbrains-academy/cpp-course-template" target="_blank" alt="cpp-course-template">
 <picture>
