@@ -12,30 +12,30 @@
 ## Popular courses
 <a href="https://github.com/jetbrains-academy/introduction_to_python" target="_blank" alt="Introduction to Python course">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=introduction_to_python&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=introduction_to_python&theme=default">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=introduction_to_python&theme=default" alt="Introduction to Python course">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=jetbrains-academy&repo=introduction_to_python&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=jetbrains-academy&repo=introduction_to_python&theme=default">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=jetbrains-academy&repo=introduction_to_python&theme=default" alt="Introduction to Python course">
 </picture>
 </a>
 <a href="https://github.com/jetbrains-academy/kotlin-onboarding-introduction" target="_blank" alt="kotlin-onboarding-introduction course">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=kotlin-onboarding-introduction&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=kotlin-onboarding-introduction&theme=default">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=kotlin-onboarding-introduction&theme=default" alt="kotlin-onboarding-introduction course">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=jetbrains-academy&repo=kotlin-onboarding-introduction&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=jetbrains-academy&repo=kotlin-onboarding-introduction&theme=default">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=jetbrains-academy&repo=kotlin-onboarding-introduction&theme=default" alt="kotlin-onboarding-introduction course">
 </picture>
 </a>
 <a href="https://github.com/jetbrains-academy/rustlings-course" target="_blank" alt="rustlings-course">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=rustlings-course&theme=dark&description_lines_count=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=rustlings-course&theme=default&description_lines_count=1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=rustlings-course&theme=default&description_lines_count=1" alt="rustlings-course">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=jetbrains-academy&repo=rustlings-course&theme=dark&description_lines_count=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=jetbrains-academy&repo=rustlings-course&theme=default&description_lines_count=1">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=jetbrains-academy&repo=rustlings-course&theme=default&description_lines_count=1" alt="rustlings-course">
 </picture>
 </a>
 <a href="https://github.com/jetbrains-academy/CppBasics" target="_blank" alt="CppBasics course">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=CppBasics&theme=dark&description_lines_count=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=CppBasics&theme=default&description_lines_count=1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=CppBasics&theme=default&description_lines_count=1" alt="CppBasics course">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=jetbrains-academy&repo=CppBasics&theme=dark&description_lines_count=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=jetbrains-academy&repo=CppBasics&theme=default&description_lines_count=1">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=jetbrains-academy&repo=CppBasics&theme=default&description_lines_count=1" alt="CppBasics course">
 </picture>
 </a>
 
@@ -66,38 +66,38 @@ Start with the specially prepared templates:
 
 <a href="https://github.com/jetbrains-academy/python-course-template" target="_blank" alt="Python template">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=python-course-template&theme=dark&description_lines_count=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=python-course-template&theme=default&description_lines_count=1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=python-course-template&theme=default&description_lines_count=1" alt="Python template">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=jetbrains-academy&repo=python-course-template&theme=dark&description_lines_count=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=jetbrains-academy&repo=python-course-template&theme=default&description_lines_count=1">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=jetbrains-academy&repo=python-course-template&theme=default&description_lines_count=1" alt="Python template">
 </picture>
 </a>
 <a href="https://github.com/jetbrains-academy/java-course-template" target="_blank" alt="Java template">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=java-course-template&theme=dark&description_lines_count=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=java-course-template&theme=default&description_lines_count=1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=java-course-template&theme=default&description_lines_count=1" alt="Java template">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=jetbrains-academy&repo=java-course-template&theme=dark&description_lines_count=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=jetbrains-academy&repo=java-course-template&theme=default&description_lines_count=1">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=jetbrains-academy&repo=java-course-template&theme=default&description_lines_count=1" alt="Java template">
 </picture>
 </a>
 <a href="https://github.com/jetbrains-academy/kotlin-course-template" target="_blank" alt="Kotlin template">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=kotlin-course-template&theme=dark&description_lines_count=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=kotlin-course-template&theme=default&description_lines_count=1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=kotlin-course-template&theme=default&description_lines_count=1" alt="Kotlin template">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=jetbrains-academy&repo=kotlin-course-template&theme=dark&description_lines_count=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=jetbrains-academy&repo=kotlin-course-template&theme=default&description_lines_count=1">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=jetbrains-academy&repo=kotlin-course-template&theme=default&description_lines_count=1" alt="Kotlin template">
 </picture>
 </a>
 <a href="https://github.com/jetbrains-academy/javascript-course-template" target="_blank" alt="JavaScript template">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=javascript-course-template&theme=dark&description_lines_count=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=javascript-course-template&theme=default&description_lines_count=1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=javascript-course-template&theme=default&description_lines_count=1" alt="JavaScript template">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=jetbrains-academy&repo=javascript-course-template&theme=dark&description_lines_count=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=jetbrains-academy&repo=javascript-course-template&theme=default&description_lines_count=1">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=jetbrains-academy&repo=javascript-course-template&theme=default&description_lines_count=1" alt="JavaScript template">
 </picture>
 </a>
 <!--
 <a href="https://github.com/jetbrains-academy/cpp-course-template" target="_blank" alt="cpp-course-template">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=cpp-course-template&theme=dark&description_lines_count=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=cpp-course-template&theme=default&description_lines_count=1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jetbrains-academy&repo=cpp-course-template&theme=default&description_lines_count=1">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=jetbrains-academy&repo=cpp-course-template&theme=dark&description_lines_count=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=jetbrains-academy&repo=cpp-course-template&theme=default&description_lines_count=1">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=jetbrains-academy&repo=cpp-course-template&theme=default&description_lines_count=1">
 </picture>
 </a>
 -->
